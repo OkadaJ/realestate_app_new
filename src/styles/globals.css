@@ -95,6 +95,18 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+.property:hover {
+  scale: 1.015
+}
+
+.headerIcon:hover {
+  scale: 1.1
+}
+
+.exploreButton:hover {
+  scale: 1.04
+}
+
 a {
   color: inherit;
   text-decoration: none;
