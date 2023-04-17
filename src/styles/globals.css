@@ -98,11 +98,9 @@ body {
 .property:hover {
   scale: 1.015
 }
-
 .headerIcon:hover {
   scale: 1.1
 }
-
 .exploreButton:hover {
   scale: 1.04
 }
